@@ -125,12 +125,22 @@ All measures formatted (%, Decimal, Currency) with clear naming conventions.
   - **Map:** Global CO₂ emissions / ESG score by region  
   - **Table:** Governance incidents with severity indicators  
 
-### Formatting & Design
-- Green → Environmental Performance  
-- Blue → Social Metrics  
-- Purple → Governance Metrics  
-- Clean modern layout using corporate Power BI design principles  
+## 🛠 Tools Used
+- **Microsoft Power BI Desktop**  
+- **Power Query**  
+- **DAX (Data Analysis Expressions)**  
+- **CSV Data Files**  
 
 ---
+
+## ✅ Outcome
+With this ESG dashboard, executives can:
+- Monitor sustainability progress  
+- Compare environmental impact across regions  
+- Track diversity, inclusion, and training investments  
+- Evaluate governance health through compliance metrics  
+- View annual ESG Index scores  
+- Make data-driven decisions on long-term sustainability strategy 
+
 
 
